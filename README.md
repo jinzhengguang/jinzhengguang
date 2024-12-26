@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/jinzhengguang">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jinzheng+Guang;Researcher+%7C+PhD+Candidate+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jinzheng+Guang+(光金正);Researcher+%7C+PhD+Candidate+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
 </a>
 <br/>
 
@@ -39,7 +39,7 @@
 
 * 📖 Pursuing PhD in College of Artificial Intelligence @ **Nankai University**. 
 
-* 🎓 Conducting research on **AI** and **3D Vision** .
+* 🎓 Conducting research on **AI** and **3D Perception**.
 
 * 💻 Research interests include **3D Object Detection** and **Tracking**. 
 
